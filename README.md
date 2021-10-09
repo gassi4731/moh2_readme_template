@@ -1,0 +1,2 @@
+# moh2_readme_template
+MoveOnHackathon2の審査員用ドキュメントのテンプレート
