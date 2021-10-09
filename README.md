@@ -1,2 +1,5 @@
-# moh2_readme_template
-MoveOnHackathon2の審査員用ドキュメントのテンプレート
+# MoveOnHackathon2の審査員用ドキュメント テンプレート
+
+MoveOnHackathon2の審査員用ドキュメント、テンプレートです。  
+
+template.md をダウンロードして使用してください。
